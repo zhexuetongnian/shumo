@@ -66,8 +66,6 @@ class MyDataset(Dataset):
 
 
 
-
-
 # 测试：
 # for batch_idx, (inputs, targets) in enumerate(dataset_loader):
 #     print(inputs.shape)
